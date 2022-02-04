@@ -1,4 +1,4 @@
-Olá, me chamo **Hugo Rodrigues**, sou de Pernambuco, Brasil este é meu portifólio Desenvolvedor Web enquanto estudante  da [Trybe](https://www.betrybe.com/) :rocket:. 
+Olá, me chamo **Hugo Rodrigues**, sou de Pernambuco, Brasil este é meu portifólio de Desenvolvedor Web enquanto estudante  da [Trybe](https://www.betrybe.com/) :rocket:. 
 
 <div align="center">
   <a href="https://github.com/hugoacr">
